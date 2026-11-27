@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "fecha": "2026-12-02",
+    "hora": "17:30",
+    "departamento": "Salto",
+    "titulo": "Ford Ranger 2024",
+    "tipo": "Vehículos",
+    "detalle": "Pickup doble cabina 4x2 diésel; 19 de Abril 634. Rematador José Luis Carvallo.",
+    "base_estado": "Sin base",
+    "base": "Sin base · UYU",
+    "fuente": "IMPO",
+    "url": "https://www.impo.com.uy/bases/avisos-remate/29408-2026"
+  },
+  {
+    "fecha": "2026-12-02",
+    "hora": "17:30",
+    "departamento": "Salto",
+    "titulo": "Chevrolet Montana 2005",
+    "tipo": "Vehículos",
+    "detalle": "Matrícula IAD 5437; 19 de Abril 634. Rematador Alfonso Carvallo.",
+    "base_estado": "Sin base",
+    "base": "Sin base · UYU",
+    "fuente": "IMPO",
+    "url": "https://www.impo.com.uy/bases/avisos-remate/29379-2026"
+  },
+  {
+    "fecha": "2026-12-08",
+    "hora": "14:30",
+    "departamento": "Rivera",
+    "titulo": "Toyota Hilux 2017",
+    "tipo": "Vehículos",
+    "detalle": "Doble cabina, matrícula NCM3435; Socorro Turnes 448. Rematador Enrique Díaz.",
+    "base_estado": "Sin base",
+    "base": "Sin base · UYU",
+    "fuente": "IMPO",
+    "url": "https://www.impo.com.uy/bases/avisos-remate/29409-2026"
+  },
+  {
+    "fecha": "2026-12-01",
+    "hora": "13:30",
+    "departamento": "Montevideo",
+    "titulo": "Ford EcoSport 2014 y Chevrolet Captiva 2011",
+    "tipo": "Vehículos",
+    "detalle": "Av. Uruguay 826. Rematadora Adriana Maggie Amorena Ceballe.",
+    "base_estado": "Sin base",
+    "base": "Sin base · USD",
+    "fuente": "IMPO",
+    "url": "https://www.impo.com.uy/bases/avisos-remate/30130-2026"
+  },
+  {
+    "fecha": "2026-12-01",
+    "hora": "14:00",
+    "departamento": "Cerro Largo",
+    "titulo": "Terreno con construcciones en Melo",
+    "tipo": "Inmuebles",
+    "detalle": "Padrón 8333, 259,86 m²; remate en 18 de Julio 860.",
+    "base_estado": "Sin base",
+    "base": "Sin base · USD",
+    "fuente": "IMPO",
+    "url": "https://www.impo.com.uy/bases/avisos-remate/29127-2026"
+  },
+  {
+    "fecha": "2026-12-03",
+    "hora": "14:00",
+    "departamento": "Paysandú",
+    "titulo": "Mercadería e indumentaria deportiva",
+    "tipo": "Otros",
+    "detalle": "Wilson Ferreira Aldunate 1678. Rematador Javier Jolochin.",
+    "base_estado": "Sin base",
+    "base": "Sin base · UYU",
+    "fuente": "IMPO",
+    "url": "https://www.impo.com.uy/bases/avisos-remate/30555-2026"
+  },
+  {
+    "fecha": "2026-12-02",
+    "titulo": "Agenda de remates ANV — Interior",
+    "tipo": "Inmuebles",
+    "departamento": null,
+    "base_estado": "Con base",
+    "detalle": "Consultar nómina y edictos para conocer los inmuebles, horarios y precios individuales.",
+    "fuente": "ANV",
+    "url": "https://www.anv.gub.uy/remates"
+  },
+  {
+    "fecha": "2026-12-03",
+    "titulo": "Agenda de remates ANV — Interior",
+    "tipo": "Inmuebles",
+    "departamento": null,
+    "base_estado": "Con base",
+    "detalle": "Consultar nómina y edictos para conocer los inmuebles, horarios y precios individuales.",
+    "fuente": "ANV",
+    "url": "https://www.anv.gub.uy/remates"
+  },
+  {
+    "fecha": "2026-12-04",
+    "titulo": "Agenda de remates ANV — Interior",
+    "tipo": "Inmuebles",
+    "departamento": null,
+    "base_estado": "Con base",
+    "detalle": "Consultar nómina y edictos para conocer los inmuebles, horarios y precios individuales.",
+    "fuente": "ANV",
+    "url": "https://www.anv.gub.uy/remates"
+  },
+  {
+    "fecha": "2026-12-09",
+    "titulo": "Agenda de remates ANV — Montevideo",
+    "tipo": "Inmuebles",
+    "departamento": "Montevideo",
+    "base_estado": "Con base",
+    "detalle": "Consultar nómina y edictos para conocer los inmuebles, horarios y precios individuales.",
+    "fuente": "ANV",
+    "url": "https://www.anv.gub.uy/remates"
+  },
+  {
+    "fecha": "2026-12-10",
+    "titulo": "Agenda de remates ANV — Montevideo",
+    "tipo": "Inmuebles",
+    "departamento": "Montevideo",
+    "base_estado": "Con base",
+    "detalle": "Consultar nómina y edictos para conocer los inmuebles, horarios y precios individuales.",
+    "fuente": "ANV",
+    "url": "https://www.anv.gub.uy/remates"
+  },
+  {
+    "fecha": "2026-12-11",
+    "titulo": "Agenda de remates ANV — Montevideo",
+    "tipo": "Inmuebles",
+    "departamento": "Montevideo",
+    "base_estado": "Con base",
+    "detalle": "Consultar nómina y edictos para conocer los inmuebles, horarios y precios individuales.",
+    "fuente": "ANV",
+    "url": "https://www.anv.gub.uy/remates"
+  }
+]
